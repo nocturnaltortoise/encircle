@@ -7,8 +7,4 @@ class Node {
         this.x = null;
         this.y = null;
     }
-
-    // toString(){
-    //     return `Node(${this.player}, ${this.neighbours}, ${this.dots})`;
-    // }
 }
